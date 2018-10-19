@@ -6,3 +6,4 @@ Gültig ab der kommenden Saison TOHL10.
 ## Inhalt
 
 * [Was ist die TOHL](/allgemein/ueber.md)
+* [Kommunikation](/allgemein/kommunikation.md)

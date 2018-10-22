@@ -1,11 +1,8 @@
 ## TOHL - WHAT’S THAT?
 
-Die TOHL ist eine kostenlose Simulator-basierte Fantasy-Eishockey-Liga, deren Teilnehmer als sogenannte GMs (General Manager) die Geschicke ihres aus unrealen Spielern bestehenden Teams in ihre virtuellen Hände nehmen.
+Die TOHL ist eine kostenlose Fantasy Hockey-Liga auf Basis des FHL-Sim Programms. Einst als reine Berliner Liga gestartet, konnte sich die TOHL mit Standorten über ganz Deutschland ausdehnen. Mit Teams aus der Schweiz (inzwischen wieder umgezogen) und aktuell England besitzt die TOHL inzwischen sogar internationales Flair.
 
-Vor jedem Spieltag schickt die Ligenleitung bzw. der Commissioner die aktuellen League-Files an die GMs. Mit einem downloadbaren Editor oder dem Online-Tool stellen die GMs dann die Reihen ihrer Mannschaft nach eigenem Gutdünken zusammen, speichern diese in einer Datei und senden sie vor Beginn der eigentlichen Spieltags-Simulation dem Commissioner. Im Simulator FHLsim von Batesoft erfolgt anschliessend die Generierung der einzelnen Ergebnisse, Statistiken und zusätzlichen Gameday-Daten.
+Die TOHL besteht aus aktuell 22 Clubs, auch Franchises genannt. Diese sind in zwei Conferences zu je elf Teams unterteilt. Diese wiederum unterteilen sich in je zwei Divisionen zu fünf, bzw. sechs Teams. Eine Expansion auf zwei weitere Teams ist technisch möglich, derzeit aber nicht gewünscht. Doch werden durch nicht-virtuelle Einflüsse immer mal wieder GM-Posten frei.
 
-Die neuesten Informationen die Liga betreffend nebst ausführlichen Statistiken zu den Teams, den Scorern, den Prügelknaben etc. sind unter my-tohl.org in nach jedem Spieltag aktualisierter Form abrufbar.
 
-Vorrangiges Ziel der teilnehmenden Manager ist es, einen entscheidenden Beitrag zur Stärkung der Spassgesellschaft zu leisten. Dennoch ist jeder GM angehalten, mit einer gewissen Ernsthaftigkeit sein Team zu führen, regelmässig die Reihen einzuschicken, möglichst schnell auf Trade-Angebote zu reagieren und am regen TOHL-Leben mit selbstverfassten Artikeln teilzuhaben.
-
-Darüber hinaus stehen wir als weltoffene Liga mit Spieler aus der gesamten Welt ganz klar gegen jegliche Art von Fremdenhass, Homophobie, Rassismus oder ähnlichen Hass getriebenen Weltanschauungen.
+Im Vergleich zu anderen Ligen ist die TOHL eine rein virtuelle Angelegenheit. Sowohl die Clubs als auch die Spieler dieser Liga sind fiktiv. Ähnlichkeiten mit lebenden oder toten Spielern und Clubs sind maximal völliger Zufall. Bei den Spielernamen ist ein gewisser Hang zur Verballhornung nicht von der Hand zu weisen, wobei dies auch tatsächlich so gewollt ist. Die Mitglieder schlüpfen in die Rolle des General Manager (kurz: GM) und versuchen, ihre Franchise zu größtmöglichem Erfolg zu führen. Das Hauptaugenmerk der TOHL liegt jedoch auf guter Unterhaltung. Der Spaß an der Community steht meist im Vordergrund und tröstet viele GMs über manche sportliche Durststrecke hinweg.

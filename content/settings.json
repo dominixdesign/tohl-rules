@@ -1,0 +1,9 @@
+{
+  "title": "TOHL Regeln",
+  "url": "",
+  "logo": {
+    "light": "/tohl-logo-rules-light.svg",
+    "dark": "/tohl-logo-rules-dark.svg"
+  },
+  "github": "dominixdesign/tohl-rules"
+}

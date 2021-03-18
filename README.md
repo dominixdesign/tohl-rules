@@ -1,9 +1,27 @@
-# TOHL Regeln
+# tohl-rules
 
-Die offiziellen Regeln der [TOHL](https://my-tohl.org).
-Gültig ab der kommenden Saison TOHL10.
+## Setup
 
-## Inhalt
+Install dependencies:
 
-* [Was ist die TOHL](/allgemein/ueber.md)
-* [Kommunikation](/allgemein/kommunikation.md)
+```bash
+yarn install
+```
+
+## Development
+
+```bash
+yarn dev
+```
+
+## Static Generation
+
+This will create the `dist/` directory for publishing to static hosting:
+
+```bash
+yarn generate
+```
+
+To preview the static generated app, run `yarn start`
+
+For detailed explanation on how things work, checkout [nuxt/content](https://content.nuxtjs.org) and [@nuxt/content theme docs](https://content.nuxtjs.org/themes-docs).

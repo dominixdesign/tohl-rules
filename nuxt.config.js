@@ -4,8 +4,5 @@ export default theme({
   docs: {
     primaryColor: '#0061AF'
   },
-  target: 'static',
-  router: {
-    base: '/tohl-rules/'
-  }
+  target: 'static'
 })

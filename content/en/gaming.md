@@ -1,6 +1,6 @@
 ---
 title: Spielbetrieb
-position: 30
+position: 75
 category: Regelbuch
 ---
 

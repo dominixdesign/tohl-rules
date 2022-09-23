@@ -51,7 +51,7 @@ Für die Dauer des Trainingslagers sind die Spieler nicht verfügbar, nach der A
 ## Zeitpunkte
 
 In [Saisonverlauf, Regular Season](/season#die-regular-season-regseason) wird auf die Blöcke hingewiesen, in die die Regular Season neu eingeteilt wird. Diese sind bei der Planung der Trainingscamps sehr wichtig.
-Die Regular Season ist in 8 Blöcke aufgeteilt. Ein Block umfasst sechs Spieltage. (Tag 4-9 = Block 1, Tag 10-15 = Block 2, u.s.w.). Der Block 1 beginnt ab Spieltag 4. Der letzte Block (Nr. 8) Endet mit dem Beginn der Trading Deadline. Während eines Blocks ist es möglich, für den nächsten Block ein Camp zu buchen. Man kann also letzmalig ab Block 8 für dann maximal 3 Blöcke in ein Camp fahren. Die Camper die dann für mehr als einen Block fahren, kommen entsprechend erst nach der Trading Deadline zurück.
+Die Regular Season ist in acht Blöcke aufgeteilt. Ein Block umfasst sechs Spieltage. (Tag 4-9 = Block 1, Tag 10-15 = Block 2, u.s.w.). Der Block 1 beginnt ab Spieltag 4. Der letzte Block (Nr. 8) Endet mit dem Beginn der Trading Deadline. Während eines Blocks ist es möglich, für den nächsten Block ein Camp zu buchen. Man kann also letzmalig ab Block 8 für dann maximal 3 Blöcke in ein Camp fahren. Die Camper die dann für mehr als einen Block fahren, kommen entsprechend erst nach der Trading Deadline zurück.
 
 Neu ab Saison 13 ist, dass man bereits ab Spieltag 4 (Block 1) in ein Camp fahren kann.
 

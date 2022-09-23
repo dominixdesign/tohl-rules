@@ -6,7 +6,7 @@ category: Regelbuch
 
 Zum Saisonende auslaufende Spielerverträge werden wir folgt behandelt:
 
-Alle Spieler, die in der Saison in welcher der Vertrag ausläuft, nicht mindestens 17 Spiele im Proteam absolviert haben, werden automatisch zu Free Agents und wandern in den sogenannten FA-Pool.
+Alle Spieler, die in der Regular Season in welcher der Vertrag ausläuft, nicht mindestens 17 Spiele im Proteam des eigenen Teams oder eines anderen Teams absolviert haben, werden automatisch zu Free Agents und wandern in den sogenannten FA-Pool.
 
 Jedes Team darf abweichend von dieser Regelung einen "Joker" setzen, d.h. ein Spieler mit weniger als 17 Spielen kann pro Team geschützt werden.
 <alter type="info">

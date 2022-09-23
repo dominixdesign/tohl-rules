@@ -8,13 +8,13 @@ Wenn ein Spieler über 30 Jahre ist und der Vertrag ausgelaufen, wird er automat
 
 Im Rahmen einer Auktionsphase wird in der UFA-Phase ein möglicher Franchise-Wechsel bestimmt. Das Prozedere gestaltet sich wie folgt:
 
-1. Der Hauptteil UFA-Phase findet über zwei Wochen statt und teilt den aktuellen Bestand an UFA-Spielern während dieser UFA-Phase in zwei Pools auf. Der OV-Wert eines Spielers bestimmt dessen Pool-Zugehörigkeit.
-2. Es wird zwei Pools geben, die sich nach den OV-Werten der UFA-Spieler gestalten. Zur Saison 09 wurden folgende Werte genutzt:   
+1. Der Hauptteil UFA-Phase findet über meist über vier Wochen statt und teilt den aktuellen Bestand an UFA-Spielern während dieser UFA-Phase in üblicherweise zwei Pools auf. Der OV-Wert eines Spielers bestimmt dessen Pool-Zugehörigkeit.
+2. Es wird üblicherweise zwei Pools geben, die sich nach den OV-Werten der UFA-Spieler gestalten. Zur Saison 09 wurden folgende Werte genutzt:   
    Pool 1: OV-Werte von 75 bis 99 (entsprach 18 Spieler)   
    Pool 0: OV-Wert bis einschl. 74 (entsprach 19 Spieler) + entlassene Spieler   
     
    Diese Grenzwerte werden zu jeder UFA-Phase angepasst. Es gilt hierbei, eine passende Anzahl möglichst gleich große Pools zu bilden. Je nach Stärken der UFA-Spielern können sich die OV-Werte zur Bestimmung der Pools also verändern. Eine genaue Definition der Pools teilt die Ligenleitung vorab per Mail und im Forum mit.
-3. Der Pool A wird für exakt eine Woche geöffnet (Bspw: von Samstag 00:00 Uhr bis Freitag, 23:59). In dieser Zeit können die GM‘s auf einen oder mehrere Spieler aus diesem Pool bieten. Nach den letzten Erfahrungen werden die UFA-Pools an Samstagen ab 0:00 Uhr geöffnet. Die Ligenleitung behält sich hier Änderungen vor, die ebenfalls vorab angekündigt werden.
+3. Jeweils üblicherweise zwei Wochen nachdem der vorhergehende Pool gestartet ist, wird der nächste Pool gestartet. In dieser Zeit können die GM‘s auf einen oder mehrere Spieler aus den laufenden Pools bieten. Nach den letzten Erfahrungen werden die UFA-Pools an Sonntagen ab ca. 0:00 Uhr geöffnet. Die Ligenleitung behält sich hier Änderungen vor, die ebenfalls vorab angekündigt werden.
 
 4. Jeder GM kann auf die Spieler bieten, das Höchstgebot gewinnt den Zuschlag. Erhält ein Spieler nach seinem ersten Angebot binnen 48 Stunden kein weiteres, höheres Gebot (es gilt die Forums-Zeit), ist die Auktion geschlossen und der Spieler nimmt dieses Angebot an und wechselt das Team oder bleibt zu neuen Konditionen bei seinem alten Team! Mit jedem neuen Angebot auf einen Spieler wird die 48 Stunden-Frist wieder auf Null gesetzt. Ein Angebot, welches 48 Stunden nicht überboten wurde, gilt also als Zuschlag.
 
@@ -22,9 +22,9 @@ Im Rahmen einer Auktionsphase wird in der UFA-Phase ein möglicher Franchise-Wec
 
 6. Ein korrektes Angebot auf einen UFA-Spieler muss neben einem Angebot zum Jahresgehalt auch eine Laufzeit enthalten. Gebote ohne Laufzeit werden nicht gewertet. Die Vertragslänge ist im Regelwerk Artikel 27: Vertragslängen und Prozedere geregelt.
 
-7. Das Mindestgebot für einen Spieler liegt bei 25.000,- TOHL-$ Jahresgehalt. Wer ein Gebot überbieten möchte, muss das gebotene Jahresgehalt um mindestens 10% erhöhen, mindestens jedoch 25.000,- TOHL-$ mehr bieten als der Vorbieter.
+7. Das Mindestgebot für einen Spieler liegt bei 25.000,- TOHL-$ Jahresgehalt. Wer ein Gebot überbieten möchte, muss das gebotene Jahresgehalt um mindestens 10% erhöhen, mindestens jedoch 25.000,- TOHL-$ mehr bieten als der Vorbieter. Beispiel 1: Das Vorgebot liegt bei 25.000,-.D ann muss auf mindestens 50.000,- erhöht werden. Beispiel 2: Das Vorgebot liegt bei 300.000,-. Dann muss auf mindestens 330.000,- erhöht werden.
 
-8. UFA-Gebote sind einfach zu überschauen und daher nur gültig, wenn es der aktuelle Cap-Space der bietenden Teams hergibt. Das bedeutet, dass bei fehlendem freien Space ein Spieler zumindest auf der Entlassungsliste stehen muss um das Gebot machen zu können. 
+8. UFA-Gebote sind einfach zu überschauen und daher nur gültig, wenn es der aktuelle Cap-Space der bietenden Teams hergibt. Das bedeutet, dass bei fehlendem freien Space ein passender Spieler zumindest auf der Entlassungsliste stehen muss oder ein passender Trade im Forum stehen muss um das Gebot machen zu können. Dabei ist ebenfalls wichtig, dass man die maximale Spieleranzahl (48) der Rosters nicht zu sehr strapaziert. Daher wird festgelegt, dass die sich im Kader befindlichen Spieler (abzüglich/zuzüglich der ggf. auf der Entlassungliste stehenden und die per Trade weggeschickten/geholten Spieler) + die Anzahl der Gebote auf UFA oder RFA Spieler die Anzahl von 50 nicht überschreiten dürfen. Sollte da nicht zeitnah durch den GM per Entlassung oder Trade zum positiven hin reagiert werden, wäre das Gebot/die Gebote die zur Überschreitung geführt haben ungültig.
 
 9. Nachdem der Pool 1 abgearbeitet wurde, wird mit Beginn der zweiten Woche Pool 0 frei geschaltet. Dieser bleibt bis in die Regular Season geöffnet und dient den Clubs als Auffüll-Option, sollten die Roster noch nicht voll sein oder Spieler entlassen werden. Erst zur Trading Deadline gegen Ende der Regular Season wird Pool 0 geschlossen! Sollten sich danach noch Spieler im Pool 0 befinden, gehen alle Spieler mit einem Alter von 31 Jahren und älter ohne Umwege ins Karriereende. Jüngere Spieler verleiben im Pool 0 und sind in der Folgesaison wieder bereit, verpflichtet zu werden.
 

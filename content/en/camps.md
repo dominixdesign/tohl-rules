@@ -71,9 +71,13 @@ Die Voranmeldung hat während des aktuellen Blocks für den kommenden Block, sp�
 
 ## Bestätigung
 
-Der Manager erhält eine Bestätigungsmail von der Koordinationsstelle und hat dann die für das Trainingscamp vorgesehenen Spieler auf die Scratch-Liste zu setzen. Das Lines-File (bzw. die Lines Erstellung auf der Homepage) ist bis spätestens 19.59 Uhr für den Spieltag (gleichzeitig Beginn des Trainingslagers) abzusenden.
+Die Buchung eines Camps erfolgt über die Website im Bereich: Office / Trainingscamps. Diese Buchung landet im TOHL-Reisebüro wo eine Prüfung vorgenommen wird. Der Manager erhält im Anschluss eine Bestätigungsmail von der Koordinationsstelle und hat dann die für das Trainingscamp vorgesehenen Spieler auf die Scratch-Liste zu setzen. Sollte es Probleme bei der Buchung geben, meldet sich das TOHL-Reisebüro bei dem jeweiligen GM. Das Lines-File (bzw. die Lines Erstellung auf der Homepage) ist bis spätestens 19.59 Uhr für den Spieltag (gleichzeitig Beginn des Trainingslagers) abzusenden.
 Spieler im Trainingscamp werden im Roster mit der Bezeichnung HO (holdout) gekennzeichnet.
 Es können zur selben Zeit unbegrenzt viele Teams ein und dasselbe Trainingscamp buchen. Nach dem Camp verbessern sich die Spieler entsprechend der Trainingsinhalte (deren Wichtigkeit durch die Sterne hervorgehoben ist).
+
+Zum Zeitpunkt der Buchung prüft das TOHL-Reisebüro ob alle Kriterien efüllt sind. Also vor allem ob genügend freier Cap-Space vorhanden ist, die Anzahl der vorhandenen TL-Punkte nicht überschritten wird und ob die Mindestanzahl an Spielern pro Position eingehalten wird, wenn die Camper denn weg sein werden. Die Prüfung erfolgt ausschließlich zum Zeitpunkt der Buchung! Wenn sich zwischen der Bestätigung und Camp-Beginn noch etwas verändert, was nicht auf den GM zurückzuführen ist, hat dies keine Auswirkungen auf die Camp-Durchführung. Dies ist der Fall wen sich eine Sperre oder eine Verletzung (eines nicht Camp-Fahrers) ergibt. Sollte der GM durch eigenes Zutun, z.B. durch Entlassungen oder Trades die Anzahl der Mindestspieler unterschreiten oder den Cap Space überschreiten kann das Camp ggf. nicht durchgeführt werden.
+
+Generell macht es Sinn Spieler für die ein Camp gebucht wurde bis zum Camp-Beginn nicht mehr einzusetzen, da Spieler bei einer zwischenzeitlich erhaltenen Sperre oder einer erlangten Verletzung ggf. nicht die Fahrt in das Camp antreten können. Dies ist aber lediglich ein nett gemeinter Hinweis - die Spieler dürfen grundsätzlich bis zum Camp-Beginn eingesetzt werden. 
 
 ## Camp Qualitäten
 

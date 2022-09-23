@@ -51,8 +51,9 @@ Für die Dauer des Trainingslagers sind die Spieler nicht verfügbar, nach der A
 ## Zeitpunkte
 
 In [Saisonverlauf, Regular Season](/season#die-regular-season-regseason) wird auf die Blöcke hingewiesen, in die die Regular Season neu eingeteilt wird. Diese sind bei der Planung der Trainingscamps sehr wichtig.
-Der 51. Spieltag der TOHL-Regular Season ist der Tag der Trading Deadline. Diese läutet den Abschluss der Trainingscamp-Besuche ein.  Es sind bis dahin 9 Blöcke, in die die Regular Season aufgeteilt ist. Ein Block umfasst sechs Spieltage. (Tag 1-6 = Block 1, Tag 7-12 = Block 2, u.s.w.). Während eines Blocks ist es möglich, für den nächsten Block ein Camp zu buchen. Man kann also letzmalig ab Block 9 für dann maximal 3 Blöcke in ein Camp fahren. Die Camper kommen dann ggf. erst nach den Trading Deadline zurück.
-Neu ab Saison 13 ist, dass man bereits ab Spieltag 1 (Block 1) in ein Camp fahren kann.
+Der 51. Spieltag der TOHL-Regular Season ist der Tag der Trading Deadline. Diese läutet den Abschluss der Trainingscamp-Besuche ein.  Es sind bis dahin 8 Blöcke, in die die Regular Season aufgeteilt ist. Ein Block umfasst sechs Spieltage. (Tag 4-9 = Block 1, Tag 10-15 = Block 2, u.s.w.). Während eines Blocks ist es möglich, für den nächsten Block ein Camp zu buchen. Man kann also letzmalig ab Block 8 für dann maximal 3 Blöcke in ein Camp fahren. Die Camper die dann für mehr als einen Block fahren, kommen dann erst nach den Trading Deadline zurück.
+
+Neu ab Saison 13 ist, dass man bereits ab Spieltag 4 (Block 1) in ein Camp fahren kann.
 
 __Zwischen jedem Camp-Besuch muss ein Block pausiert werden!__
 

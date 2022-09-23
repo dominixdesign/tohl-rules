@@ -10,23 +10,21 @@ Die sogenannte Trading-Deadline markiert den letzten Tag der Abgabe eines Trade-
 Im Spielplan (Schedule) ist diese Trading-Deadline besonders hervorgehoben. Die Bearbeitung eines Trades dauert in der Regel 1 bis 3 Spieltage.
 
 Trades müssen immer von beiden Partnern im Forum unter dem Bereich _Trades_ bestätigt werden.
-Gibt es bei einem Transfer zügig nach der Bekanntgabe Unmutsbekundungen Dritter im Forum, in denen klar dargelegt ist, weshalb der veranschlagte Deal ein erhebliches Ungleichgewicht für die beteiligten Teams darstellt, wird die Ligenleitung mit zwei weiteren GMs die Situation erörtern und sich vorbehalten, den Deal ggfs. abzulehnen.
-
-Die Älteren erinnern sich an die alte Trade-Comm? Hier wird es ein passives Dreigestirn geben, dass sich eher als eine Art Beschwerdestelle versteht und den Deal aus unterschiedlichen Gesichtspunkten durchleuchten wird. Daraufhin wird die Ligenleitung den Trade entweder freigeben oder im Falle eines erörterten Ungleichgewichts um Nachbesserung bitten.
+Gibt es bei einem Transfer zügig nach der Bekanntgabe Unmutsbekundungen Dritter im Forum, in denen klar dargelegt ist, weshalb der veranschlagte Deal ein erhebliches Ungleichgewicht für die beteiligten Teams darstellt, wird die Ligenleitung mit zwei weiteren GMs die Situation zumindest noch einmal erörtern.
 
 Ein Trade im Forum ist in etwa mit folgendem Wortlaut zu bekunden:
 
 TO RACCOONS: Flimma Kiste  
 TO REAPERS: John When  
 
-Es können nicht nur Spieler, sondern auch Draftrechte getauscht werden. Um dem Spekulationshandel vorzubeugen, sind nur Draftpick-Abgaben für die folgende Saison erlaubt.
+Es können nicht nur Spieler, sondern auch Draftrechte getauscht werden. Um dem Spekulationshandel vorzubeugen, sind nur Draftpick-Abgaben für die folgende Saison erlaubt. In der Offseason ist es auch möglich ein aktuelles Draftrecht gegen ein Draftrecht für den darauf folgenden Draft zu traden. Beispiel: Das Finale der Saison 13 ist ausgespielt, wir befinden uns in der Offseason und der Draft für Saison 14 steht an. Bis dieser Draft stattgefunden hat ist es möglich Draftrechte der Saison 14 gegen Draftrechte der Saison 15 zu traden.
 
 __Spieler gegen Geld-Deals sind unzulässig und werden von der Ligenleitung abgelehnt!__
 
 Auch Trainer und Switch-Rechte sind KEIN mögliches Trade-Gut. Siehe hierzu noch einmal [Positionsänderung](/positions).
 
 <alert type="warning">
-Wichtig: die Rostergröße muss nach einem Transfer immer erhalten bleiben. Eine korrekte Rostergröße liegt zwischen 32 Spielern (je 6 Center, Left Wings, Right Wings, 11 Defender, 3 Goalies) und 49 Spielern. Hätte ein Team durch einen Trade zu viele oder zu wenig Spieler, wird der Deal abgelehnt. Achtet also auf Eure Rostergröße.
+Wichtig: die Rostergröße muss nach einem Transfer immer erhalten bleiben. Eine korrekte Rostergröße liegt zwischen 32 Spielern (je 6 Center, Left Wings, Right Wings, 11 Defender, 3 Goalies) und 48 Spielern. Hätte ein Team durch einen Trade zu viele oder zu wenig Spieler, wird der Deal abgelehnt. Achtet also auf Eure Rostergröße.
 </alert>
 
 Entlassene Spieler landen immer im Free Agent-Pool 0 und sind von den GM‘s wie UFA-Spieler zu behandeln und anzuheuern. Hier zählt ausschließlich das Gehalt, es gibt weder Veto noch Bonus.

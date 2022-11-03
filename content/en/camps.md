@@ -10,7 +10,7 @@ Jeder GM kann bis zu zwei Mal pro Saison jeweils bis zu acht Spieler (weniger si
 
 Ein Spieler, der zu Saisonbeginn einen OV von 69 oder höher hat, darf ein Mal pro Saison ein Trainingscamp besuchen. Spieler mit geringerem OV dürfen zwei Camps pro Saison beziehen. Bei verletzten Spielern gibt es die Option, trotz eines höheren OV ein zweites Mal ins Trainingslager zu fahren, wenn die Trainingslagerpunkte es erlauben und der Trainingsschwerpunkt "Erholung" aktiviert ist.
 
-Spieler mit einem Alter von 23 Jahren oder jünger UND einem OV von max. 75 fahren ins Camp, ohne Punkte zu kosten. Ab einem Alter von 24 Jahren ODER einem OV von 76 ist ein Spieler eine bestimmte Anzahl Punkte wert. Hierbei zählt immer der Status zum Buchungstermin des Trainingscamps.
+Abhängig vom Alter und vom OV kosten einige Spieler sogenannte TL-Punkte bei einer Buchung. Hierbei zählt immer der Status zum Buchungstermin des Trainingscamps.
 
 Pro Saison dürfen Teams, die in der vorherigen Saison die Playoffs erreicht haben, nur insgesamt 6 Punkte in einen Trainingscamp-Besuch investieren. Teams, die in der vorherigen Saison die Playoffs verfehlten, dürfen 8 Punkte investieren.
 

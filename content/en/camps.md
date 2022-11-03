@@ -25,7 +25,16 @@ zwischen OV 76 - OV 77 ==> einen Punkt pro Spieler
 OV 78 & OV 79          ==> zwei Punkte pro Spieler  
 OV 80 & OV 81          ==> drei Punkte pro Spieler  
 ```
-Für Spieler mit einem Alter von 24 Jahren oder älter:
+Für Spieler mit einem Alter von 24 Jahren bis 29 Jahren:
+```
+bis zu einem OV 73     ==> keine Punkte  
+zwischen OV 74 - OV 75 ==> einen Punkt pro Spieler  
+OV 76 & OV 77          ==> zwei Punkte pro Spieler  
+OV 78 & OV 79          ==> drei Punkte pro Spieler  
+OV 80                  ==> vier Punkte pro Spieler  
+OV 81                  ==> fünf Punkte pro Spieler  
+```
+Für Spieler mit einem Alter von 30 Jahren oder älter:
 ```
 bis zu einem OV 68     ==> keine Punkte  
 zwischen OV 69 - OV 75 ==> einen Punkt pro Spieler  

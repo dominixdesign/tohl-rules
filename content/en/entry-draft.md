@@ -12,6 +12,8 @@ Bei den Picks 1-18 einer Runde zählt das Ergebnis (die Reihenfolge) aus der Reg
 
 Das Alter der Spieler im Entry Draft liegt zwischen 17-19 Jahren.
 Rookies bekommen immer einen Vierjahresvertrag und dürfen in ihrer Erstsaison zwar getradet, jedoch nicht entlassen werden.
+Ab dem Draft der Saison 15 ist es allerdings möglich sein Darftrecht nicht auszüben. Wenn man also beim Draft an der Reihe ist kann man für den jeweiligen Pick entscheiden, ob man einen Spieler auswählen möchte oder nicht. Pickt man einen Spieler hat dieser die übliche Entlassungssperre. Diese Anpassung soll Teams deren Kader evtl. schon sehr gut gefüllt ist etwas mehr Flexibilität verschaffen.
+
 Üblicherweise wird mit dem ersten Spiel der RegSeason nach und nach der Draft-Jahrgang für die kommende Saison auf der Homepage im Bereich Ligabüro / Scouting bekannt gegeben. Mitte der RegSeason (und damit noch deutlich vor der Trading Deadline) wird jeder GM damit üblicherweise Einsicht darauf haben, welche Spieler mit welchen Stärken für den Draft zur Verfügung stehen.
 Die offizielle Draftliste wird den Managern ca. eine Woche vor dem Entry Draft zugesendet bzw. im Forum veröffentlicht. Der eigentliche Drafttermin wird vorher angekündigt und in einem Chatroom stattfinden. Teams, deren Manager nicht am Draft teilnehmen können, sollten einen GM als ihren Vertreter benennen und ihm eine Liste mit benötigten, bzw. gewünschten zu draftenden Spielern mitteilen.
 

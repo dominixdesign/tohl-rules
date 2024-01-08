@@ -17,7 +17,11 @@ Ein Trade im Forum ist in etwa mit folgendem Wortlaut zu bekunden:
 TO RACCOONS: Flimma Kiste  
 TO REAPERS: John When  
 
-Es können nicht nur Spieler, sondern auch Draftrechte getauscht werden. Um dem Spekulationshandel vorzubeugen, sind nur Draftpick-Abgaben für die folgende Saison erlaubt. In der Offseason ist es auch möglich ein aktuelles Draftrecht gegen ein Draftrecht für den darauf folgenden Draft zu traden. Beispiel: Das Finale der Saison 13 ist ausgespielt, wir befinden uns in der Offseason und der Draft für Saison 14 steht an. Bis dieser Draft stattgefunden hat ist es möglich Draftrechte der Saison 14 gegen Draftrechte der Saison 15 zu traden.
+Es können nicht nur Spieler, sondern auch Draftrechte getauscht werden. Um dem Spekulationshandel vorzubeugen, sind nur Draftpick-Abgaben für die folgende Saison erlaubt. 
+
+Mit Ablauf der Trade-Deadline der jeweiligen Saison können auch Trades gepostet werden die Draft-Picks des übernächsten Drafts beinhalten. Beispiel: Die Trade-Deadline innerhalb der Saison 14 ist erreicht. Nun kann man auch Trades mit Draft-Picks der Saison 16 posten. Sämtliche Deals die zwischen Trade-Deadline und Ende der Playoffs der jeweiligen Saison gepostet werden, können natürlich erst in der dann folgenden Offseason umgesetzt werden.
+
+Dennoch sollen solch früh gepostete Deals für die folgende Tradephase und nicht für spätere Tradephasen gelten. Beispiel: Trades die nach der Tradedeadline und vor Saisonende gepostet werden, sollen auch zur Umsetzung in der Offseason kommen und nicht erst z.B. nach Camp 1 oder 2 in der Folgesaison.
 
 __Spieler gegen Geld-Deals sind unzulässig und werden von der Ligenleitung abgelehnt!__
 

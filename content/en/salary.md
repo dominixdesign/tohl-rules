@@ -8,15 +8,7 @@ F체r alle Draft- und RFA-Spieler gilt bei der Gehaltsbestimmung die hier aufgef�
 
 ```
 St채rke   Feldspieler    Torwart
-    55        54.000     57.000
-    56        55.000     59.000
-    57        57.000     61.000
-    58        59.000     63.000
-    59        61.000     65.000
-    60        63.000     68.000
-    61        65.000     71.000
-    62        68.000     75.000
-    63        71.000     80.000
+    <64       25.000     25.000
     64        75.000     85.000
     65        80.000     91.000
     66        85.000     99.000
@@ -45,4 +37,4 @@ St채rke   Feldspieler    Torwart
     89       671.000    785.000
 ```
 
-Spieler, die 체ber den UFA-Markt in die Teams kommen, sind von dieser Regelung und der Gehaltsliste nicht betroffen. Die Gehaltsermittlung der UFA-Spieler wird im Artikel 25 erl채utert!
+Spieler, die 체ber den UFA/FA-Markt in die Teams kommen, sind von dieser Regelung und der Gehaltsliste nicht betroffen. Die Gehaltsermittlung der UFA-Spieler wird im Artikel 25 erl채utert!

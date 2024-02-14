@@ -37,4 +37,4 @@ Stärke   Feldspieler    Torwart
     89       671.000    785.000
 ```
 
-Spieler, die über den UFA/FA-Markt in die Teams kommen, sind von dieser Regelung und der Gehaltsliste nicht betroffen. Die Gehaltsermittlung der UFA-Spieler wird im Artikel 25 erläutert!
+Spieler, die über den UFA/FA-Markt in die Teams kommen, sind von dieser Regelung und der Gehaltsliste nicht betroffen.

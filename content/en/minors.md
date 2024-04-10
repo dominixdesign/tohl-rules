@@ -4,7 +4,7 @@ position: 310
 category: Regelbuch
 ---
 
-Es gibt im Forum einen dauerhaft verfügbaren Pool an sogenannten Minor League Players, die man verpflichten kann. Sie sind im OV-schwachen Bereich und nicht wirklich als Verstärkungen für die Teams vorgesehen.
+Es gibt im Forum einen dauerhaft verfügbaren Pool an sogenannten Minor League Players, die man verpflichten kann. Sie sind im OV-schwachen Bereich und nicht als eigentliche Verstärkungen für die Teams vorgesehen.
 Sie sind als eine Art Füller gedacht um die Mindestkaderstärke auch bei Trainingslagerbuchungen sicherstellen zu können.
 
 Diese Spieler können von jedem verpflichtet werden. Es erfolgt keine Versteigerung. Man muss lediglich bei dem enstprechenden Thread im Forum melden, welchen Spieler man gerne hätte. Er wird dann zum nächstmöglichen Zeitpunkt in das Team verschoben.

@@ -14,6 +14,8 @@ Abhängig vom Alter und vom OV kosten einige Spieler sogenannte TL-Punkte bei ei
 
 Pro Saison dürfen Teams, die in der vorherigen Saison die Playoffs erreicht haben, nur insgesamt 6 Punkte in einen Trainingscamp-Besuch investieren. Teams, die in der vorherigen Saison die Playoffs verfehlten, dürfen 8 Punkte investieren.
 
+Die Trainingslagerpunkte sind an das Team gebunden und können nicht getradet werden.
+
 ## TL-Punkte
 
 Die Punkte werden wie folgt gewertet:

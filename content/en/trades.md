@@ -25,7 +25,7 @@ Dennoch sollen solch früh gepostete Deals für die folgende Tradephase und nich
 
 __Spieler gegen Geld-Deals sind unzulässig und werden von der Ligenleitung abgelehnt!__
 
-Auch Trainer und Switch-Rechte sind KEIN mögliches Trade-Gut. Siehe hierzu noch einmal [Positionsänderung](/positions).
+Auch Trainer, Switch-Rechte und Trainingslagerpunkte sind KEIN mögliches Trade-Gut. Siehe hierzu noch einmal [Positionsänderung](/positions).
 
 <alert type="warning">
 Wichtig: die Rostergröße muss nach einem Transfer immer erhalten bleiben. Eine korrekte Rostergröße liegt zwischen 32 Spielern (je 6 Center, Left Wings, Right Wings, 11 Defender, 3 Goalies) und 48 Spielern. Hätte ein Team durch einen Trade zu viele oder zu wenig Spieler, wird der Deal abgelehnt. Achtet also auf Eure Rostergröße.

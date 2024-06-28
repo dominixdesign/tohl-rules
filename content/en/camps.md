@@ -15,6 +15,7 @@ Abhängig vom Alter und vom OV kosten einige Spieler sogenannte TL-Punkte bei ei
 Pro Saison dürfen Teams, die in der vorherigen Saison die Playoffs erreicht haben, nur insgesamt 6 Punkte in einen Trainingscamp-Besuch investieren. Teams, die in der vorherigen Saison die Playoffs verfehlten, dürfen 8 Punkte investieren.
 
 Die Trainingslagerpunkte sind an das Team gebunden und können nicht getradet werden.
+Der Versuch diese Regel über Hin- und Her-Trades zu untergraben ist ebenfalls nicht erlaubt. Deswegen dürfen Spieler, die nach einem Trade ins Camp geschickt wurden, nicht wieder in der gleichen Saison zu dem Team zurück getradet werden, von dem sie gekommen sind. Diese Regel bezieht sich immer nur auf die laufende Saison. Danach sind solche Trades wieder möglich.
 
 ## TL-Punkte
 

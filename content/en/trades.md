@@ -27,6 +27,9 @@ __Spieler gegen Geld-Deals sind unzulässig und werden von der Ligenleitung abge
 
 Auch Trainer, Switch-Rechte und Trainingslagerpunkte sind KEIN mögliches Trade-Gut. Siehe hierzu noch einmal [Positionsänderung](/positions).
 
+Die Trainingslagerpunkte sind an das Team gebunden und können nicht getradet werden.
+Der Versuch diese Regel über Hin- und Her-Trades zu untergraben ist ebenfalls nicht erlaubt. Deswegen dürfen Spieler, die nach einem Trade ins Camp geschickt wurden, nicht wieder in der gleichen Saison zu dem Team zurück getradet werden, von dem sie gekommen sind. Diese Regel bezieht sich immer nur auf die laufende Saison. Danach sind solche Trades wieder möglich.
+
 <alert type="warning">
 Wichtig: die Rostergröße muss nach einem Transfer immer erhalten bleiben. Eine korrekte Rostergröße liegt zwischen 32 Spielern (je 6 Center, Left Wings, Right Wings, 11 Defender, 3 Goalies) und 48 Spielern. Hätte ein Team durch einen Trade zu viele oder zu wenig Spieler, wird der Deal abgelehnt. Achtet also auf Eure Rostergröße.
 </alert>

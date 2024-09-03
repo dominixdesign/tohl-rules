@@ -4,8 +4,7 @@ position: 190
 category: Regelbuch
 ---
 
-Trades sind in der Offseason bis zur Berechnung des Salary Caps, danach vom Saisonbeginn  an bis zur Tradingdeadline möglich.
-Die sogenannte Trading-Deadline markiert den letzten Tag der Abgabe eines Trade-Anliegens bei der Ligenleitung. Das Trading-Büro schließt einige Tage vor dem Ende der regulären Saison, ungefähr nach 85 Prozent der zu absolvierenden Spiele.
+Trades sind in der Offseason bis zur Berechnung des Salary Caps, danach vom Saisonbeginn an bis zur Tradingdeadline möglich. Die sogenannte Trading-Deadline markiert den letzten Tag der Abgabe eines Trade-Anliegens bei der Ligenleitung. Das Trading-Büro schließt einige Tage vor dem Ende der regulären Saison, ungefähr nach 85 Prozent der zu absolvierenden Spiele. Ab der Saison S16 liegt die Tradingdeadline an Spieltag 65.
 
 Im Spielplan (Schedule) ist diese Trading-Deadline besonders hervorgehoben. Die Bearbeitung eines Trades dauert in der Regel 1 bis 3 Spieltage.
 

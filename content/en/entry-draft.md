@@ -22,7 +22,8 @@ GMs, die beim Draft nicht anwesend sind und die im Vorfeld keinerlei Wünsche ge
 Alle paar Spielzeiten kann es mal vorkommen, dass ein überaus talentierter Spieler im Draftpool ist, der ein OV von 75+ hat. Das wird aber eine Seltenheit sein und wenig planbar. Grundsätzlich wird es jedoch zukünftig so sein, dass der OV bei den talentiertesten Draftspieler bei 75, bei den weniger taltentierten bei etwa 57 liegen wird. Kleinere Abweichungen (selten) vorbehalten.
 
 
-Anpassung der Namen und der Nationalität der Draftspieler:
+## Anpassung der Namen und der Nationalität der Draftspieler
+
 Ab der Saison 16 ist es möglich bei einem (!) der Spieler die man im jeweiligen Draft gepickt hat den Namen und die Nationalität anpassen zu lassen. Der Name muss natürlich gewissen Konventionen entsprechen und darf keine Leerstellen und Bindestriche oder Sonderzeichen enthalten. Er darf auch nicht zu lang sein. Ebenso könnten zu exotische Nationalitäten ein Problem sein. Daher sollte man sich bei einem außergewöhnlichen Wunsch am besten vorab mit der Ligaleitung abstimmen.
 
 Das Zeitfenster für die Anpassung der Angaben ist nur sehr klein und beträgt nach dem Draft wenige Tage. Wie viel Zeit man hat wird vorab immer bekanntgegeben. Sobald der Draftie in den SIM eingebaut wurde, wird eine Veränderung nicht mehr stattfinden.

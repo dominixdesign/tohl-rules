@@ -20,3 +20,13 @@ Die offizielle Draftliste wird den Managern ca. eine Woche vor dem Entry Draft z
 GMs, die beim Draft nicht anwesend sind und die im Vorfeld keinerlei Wünsche gegenüber anderen GMs abgegeben haben, erhalten mit ihrem Pick einen Spieler, der von den beim Draft anwesenden GMs im Gruppenaustausch ausgewählt wird. Grob wird sich dabei am OV-stärksten Spieler orientiert. Es wird aber auch mit einbezogen, auf welcher Position ein Bedarf vorhanden sein könnte. Wenn also z.B. das Team bereits 3 junge Goalies hat, aber auf LW z.B. kein Nachwuchsspieler vorhanden ist, macht es mehr Sinn einen jungen LW auszuwählen, als einen weiteren jungen Goalie - auch wenn dieser vielleicht vom OV her besser ist. Hier gibt es aber keine festen Regeln - die Gruppe versucht sich da bedarfsgerecht zu einigen.
 
 Alle paar Spielzeiten kann es mal vorkommen, dass ein überaus talentierter Spieler im Draftpool ist, der ein OV von 75+ hat. Das wird aber eine Seltenheit sein und wenig planbar. Grundsätzlich wird es jedoch zukünftig so sein, dass der OV bei den talentiertesten Draftspieler bei 75, bei den weniger taltentierten bei etwa 57 liegen wird. Kleinere Abweichungen (selten) vorbehalten.
+
+
+Anpassung der Namen und der Nationalität der Draftspieler:
+Ab der Saison 16 ist es möglich bei einem (!) der Spieler die man im jeweiligen Draft gepickt hat den Namen und die Nationalität anpassen zu lassen. Der Name muss natürlich gewissen Konventionen entsprechen und darf keine Leerstellen und Bindestriche oder Sonderzeichen enthalten. Er darf auch nicht zu lang sein. Ebenso könnten zu exotische Nationalitäten ein Problem sein. Daher sollte man sich bei einem außergewöhnlichen Wunsch am besten vorab mit der Ligaleitung abstimmen.
+
+Das Zeitfenster für die Anpassung der Angaben ist nur sehr klein und beträgt nach dem Draft wenige Tage. Wie viel Zeit man hat wird vorab immer bekanntgegeben. Sobald der Draftie in den SIM eingebaut wurde, wird eine Veränderung nicht mehr stattfinden.
+
+Es gibt im Forum unter "Spieler-Pinboard" den Eintrag "Draftnamen Anpassungen". Dort muss man seinen Änderungswunsch dann äußern.
+
+Man ist nicht verpflichtet einen Spieler anzupassen - es ist rein optional zu verstehen.

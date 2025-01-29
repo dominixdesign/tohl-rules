@@ -25,6 +25,8 @@ Man sollte sich daher im Vorfeld gut überlegen, ob man überhaupt einen solchen
 Der Franchiseplayer verlängert seinen Vertrag immer mit dem Regelgehalt gemäß seines OV.
 Sollte der Franchiseplayer allerdings ein Ersteigerungsgehalt haben, weil er als UFA/FA geholt wurde, verlängert er immer mit dem Ersteigerungsgehalt.
 
+Man kann einen benannten Franchiseplayer nach den üblichen Regeln switchen.
+
 Eine Benennung erfolgt immer vor Beginn der Regular Season.
 
 ## Welcher Spieler darf benannt werden?

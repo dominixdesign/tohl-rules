@@ -7,8 +7,17 @@ category: Regelbuch
 Der Entry-Draft findet während der OffSeason statt. Es stehen im Bereich: Office – Scouting ab dem Ende der RegSeason erste Informationen über zu draftende Spieler zur Verfügung.
 Der Entry Draft umfasst ab der Saison 14 vier Runden, in denen insgesamt etwa 80 junge Spieler zur Ziehung zur Verfügung stehen. Ab Saison 17 wird es erst einmal wieder drei Runden mit etwa 60 Spielern geben.
 
-Die Draftpick-Reihenfolge richtet sich nach dem Abschneiden in der vorherigen Saison. Der Draftpick der "schlechtesten" Mannschaft darf zuerst einen Spieler aus dem Draftpool auswählen, der Draftpick des Meisters nimmt den letzten Platz auf der Pickliste einer Draft-Runde ein.
-Bei den Picks 1-18 einer Runde zählt das Ergebnis (die Reihenfolge) aus der Regular Season. Die Picks der Playoff-Finalisten nehmen die Plätze 19 (Finalist) und 20 (Champion) ein. Natürlich besitzen die neuen Spieler (Rookies) auf der Draftliste unterschiedliche Spielstärken und voneinander abweichende Gehälter entsprechend [Gehaltsstruktur](/salary).
+Die Draftpick-Reihenfolge richtet sich nach dem Abschneiden in der vorherigen Saison. Die letzten zwei Teams jeder Conference picken ihrer Position in der Gesamttabelle entsprechend.  Das schlechteste Team der Regular Season hat somit den ersten Pick. 
+Bei allen Teams, die die Playoffs erreichen, wird die Position nach zwei Kriterien bestimmt: 
+
+1.⁠ ⁠Runde in der das Team ausscheidet
+2.⁠ ⁠Position in der Gesamttabelle
+
+Beispiel: Das punktbeste Team der Regular Season scheidet in der ersten Playoffrunde aus. Damit pickt dieses Team an Position 12.
+
+Somit haben der Finalist und der TOHL Champion die letzten beiden Picks der Runde.
+
+Natürlich besitzen die neuen Spieler (Rookies) auf der Draftliste unterschiedliche Spielstärken und voneinander abweichende Gehälter entsprechend [Gehaltsstruktur](/salary).
 
 Das Alter der Spieler im Entry Draft liegt zwischen 17-19 Jahren.
 Rookies bekommen immer einen Vierjahresvertrag und dürfen in ihrer Erstsaison zwar getradet, jedoch nicht entlassen werden.

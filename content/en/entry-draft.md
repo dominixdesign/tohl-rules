@@ -12,7 +12,7 @@ Bei allen Teams, die die Playoffs erreichen, wird die Position nach zwei Kriteri
 
 1.⁠ ⁠Runde in der das Team ausscheidet
 
-2.⁠ ⁠Position in der Gesamttabelle (hierbei ist zu beachten, dass die beiden Divisionsieger als Top 4 Teams gesetzt sind, auch wenn ein anderes Team mehr Punkte haben sollte, als ein Division-Sieger)
+2.⁠ ⁠Position in der Gesamttabelle
 
 Beispiel: Das punktbeste Team der Regular Season scheidet in der ersten Playoffrunde aus. Damit pickt dieses Team an Position 12.
 

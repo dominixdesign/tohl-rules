@@ -11,6 +11,7 @@ Die Draftpick-Reihenfolge richtet sich nach dem Abschneiden in der vorherigen Sa
 Bei allen Teams, die die Playoffs erreichen, wird die Position nach zwei Kriterien bestimmt: 
 
 1.⁠ ⁠Runde in der das Team ausscheidet
+
 2.⁠ ⁠Position in der Gesamttabelle (hierbei ist zu beachten, dass die beiden Divisionsieger als Top 4 Teams gesetzt sind, auch wenn ein anderes Team mehr Punkte haben sollte, als ein Division-Sieger)
 
 Beispiel: Das punktbeste Team der Regular Season scheidet in der ersten Playoffrunde aus. Damit pickt dieses Team an Position 12.

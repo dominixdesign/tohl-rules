@@ -6,7 +6,7 @@ category: Regelbuch
 
 Der Salary-Cap dient der Balance und der Chancengleichheit unter den TOHL-Franchises.
 
-Er deckelt die Ausgaben der Teams pro Saison und gilt für alle Teams gleichermaßen. Der Cap-Space, also der Spielrahmen, in dem sich die Ausgaben pro Saison bewegen dürfen, ist nach unten hin offen und nach oben hin begrenzt. Es handelt sich hierbei also um einen fixen Wert, der nicht je nach Team variabel ist oder sich während der Saison in irgendeine Richtung verändert. Aktuell sieht die Ligenleitung keinen Grund, einen Cap-Floor, also eine Mindestsumme für Ausgaben pro Saison zu setzen. Änderungen in dieser Sache behält sich die Ligenleitung jedoch vor.
+Er deckelt die Ausgaben der Teams pro Saison und gilt für alle Teams gleichermaßen. Der Cap-Space, also der Spielrahmen, in dem sich die Ausgaben pro Saison bewegen dürfen, ist nach unten hin offen und nach oben hin begrenzt. Es handelt sich hierbei also um einen fixen Wert, der nicht je nach Team variabel ist oder sich während der Saison in irgendeine Richtung verändert. Ab Saison 19 wird allerdings eine Wahlmöglichkeit eingeführt, die die Höhe des Salary Caps für das jeweilige Team beeinflusst, dazu mehr im weiteren Verlauf. Aktuell sieht die Ligenleitung keinen Grund, einen Cap-Floor, also eine Mindestsumme für Ausgaben pro Saison zu setzen. Änderungen in dieser Sache behält sich die Ligenleitung jedoch vor.
 
 Der Salary-Cap ist ein Regelelement, welches dynamisch gestaltet werden sollte und daher regelmäßiger Anpassungen bedarf. Daher wird sich die Ligenleitung immer in der OffSeason die Ausgabensituationen aller Teams ansehen und ggfs. Änderungen am Salary-Cap, also der Maximalsumme der Ausgaben pro Saison vornehmen. Davon erhalten die GM's Kenntnis per Foreneintrag und per eMail.
 
@@ -25,11 +25,10 @@ Eine Franchise darf mit diesen Faktoren in Summe den Salary-Cap in den Saisonpha
 
 Während der OffSeason ist es den Teams gestattet, den Salary-Cap zu überschreiten. Bis zum Beginn der PreSeason muss diese Grenze jedoch wieder unterschritten sein. Zu beachten ist dabei, dass die Anzeige des Salary-Caps auf der Homepage lediglich die Ausgaben durch Gehälter anzeigt. Möchte man also ein Trainingscamp besuchen, sollten die zu erwartenden Reisekosten zum angezeigten CapSpace addiert werden, da diese Summe erst dann abgezogen wird, wenn das Camp gebucht und bestätigt worden ist.
 
-Die einzigen Optionen, dass ein Team außerhalb der OffSeason seinen Salary-Cap überschreiten könnte, sind folgende Aktionen:
+Die einzige Möglichkeit, dass ein Team außerhalb der OffSeason seinen Salary-Cap überschreiten könnte, ist folgende:
 - ein Transfer, der die Spielergehälter über den Salary-Cap (die maximale Ausgabengrenze) drückt
-- das Buchen eines Trainingscamps
 
-Sollte eine dieser Aktionen den Salary-Cap eines Teams übersteigen, wird diese Aktion mit Hinweis auf den unzureichenden Cap-Space nicht durchgeführt. Der entsprechende GM muss reagieren, indem er entweder auf diese Aktion verzichtet oder seine Ausgaben reduziert. Dies kann man erreichen durch:
+Sollte eine solche Aktion dazu führen, dass der Salary-Cap eines Teams überstiegen wird, wird diese Aktion mit Hinweis auf den unzureichenden Cap-Space nicht durchgeführt. Der entsprechende GM muss reagieren, indem er entweder auf diese Aktion verzichtet oder seine Ausgaben reduziert. Dies kann man erreichen durch:
 - Transfer von Spielern mit hohem Jahresgehalt gegen Spieler mit günstigeren Verträgen
 - Entlassung eines Spielers
 
@@ -44,5 +43,9 @@ Während der OffSeason erhalten manche Spieler neue Verträge. Aus diesem Grunde
 Der Salary-Cap eines jeden Teams ist auf der Homepage jederzeit abrufbar Ferner kann man den aktuellen CapSpace jeden Teams einsehen. Zudem werden die Gehälter zum Einen als Jahresgehalt, zum Anderen als Gehalt pro Spieltag angezeigt, damit Ihr stets vernünftig planen könnt, auch bei Trades.
 
 Die Ligenleitung hat die Maximalsumme für Ausgaben pro Saison wie folgt festgelegt:
-- Salary-Cap für Saison12: 10.000.000,- TOHL-$
-- Salary-Cap für Saison13: 10.000.000,- TOHL-$
+- Salary-Cap bis einschließlich Saison 18: 10.000.000 TOHL-$
+- Salary-Cap ab Saison 19: 10.500.000 bzw. 10.000.000 TOHL-$
+
+Ab der Saison 19 wird es für jede Saison erneut die Abfrage geben, ob der GM einen SC in Höhe von 10.500.000 in Anspruch nehmen möchte. Entscheidet er sich dagegen, fällt sein SC für die Saison dann auf 10.000.000. Allerdings erhält er als Ausgleich für den Verzicht auf 500.000 einen zusätzlichen Trainingslagerpunkt. Mehr zum Umgang mit diesem zusätzlichen Trainingslagerpunkt ist im Kapitel Trainingscamp zu finden.
+
+Äußert sich ein GM nicht zu der SC-Frage, gilt automatisch ein SC in Höhe von 10.500.000 und er bekommt keinen TL-Punkt.

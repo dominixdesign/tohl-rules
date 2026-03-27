@@ -14,6 +14,8 @@ Abhängig vom Alter und vom OV kosten einige Spieler sogenannte TL-Punkte bei ei
 
 Pro Saison dürfen Teams, die in der vorherigen Saison die Playoffs erreicht haben, nur insgesamt 6 Punkte in einen Trainingscamp-Besuch investieren. Teams, die in der vorherigen Saison die Playoffs verfehlten, dürfen 8 Punkte investieren.
 
+Ab Saison 19 kann sich ein GM pro Saison dazu enscheiden, ob er einen höheren Salary-Cap oder einen zusätzlichen TL-Punkt haben möchte. Mehr zu dieser Regelung findet sich im Kapitel Salary-Cap. Sollte man sich für einen zusätzlichen TL-Punkt entscheiden muss man dies vor Beginn der jeweiligen Regular Season über das Forum kommunizieren. Dieser Punkt ist dann nur für die jeweilige Saison gültig. Wird er nicht genutzt, verfällt er nach der Saison. Man kann also keine Punkte für spätere Zeitpunkte sammeln.
+
 Die Trainingslagerpunkte sind an das Team gebunden und können nicht getradet werden.
 Der Versuch diese Regel über Hin- und Her-Trades zu untergraben ist ebenfalls nicht erlaubt. Deswegen dürfen Spieler, die nach einem Trade ins Camp geschickt wurden, nicht wieder in der gleichen Saison zu dem Team zurück getradet werden, von dem sie gekommen sind. Diese Regel bezieht sich immer nur auf die laufende Saison. Danach sind solche Trades wieder möglich.
 

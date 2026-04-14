@@ -18,7 +18,7 @@ DU - Widerstandsfähigkeit: Tendenz zur Verletzung (niedriger Wert hohe Verletzu
 DI - Disziplin: Tendenz zur Strafe (niedriger Wert hohe Penalty-Gefahr)  
 SK - Skating: Fähigkeit des Spielers, zu stoppen, zu wenden, zu beschleunigen  
 PA - Passen: Fähigkeit, den Puck zu passen  
-PC - Puck-Kontrolle: Fähigkeit, den Puck zu kontrollieren  
+PC - Puck-Kontrolle: Hoher Wert = Spieler schließt eher selbst ab; Niedriger Wert = Spieler spielt eher ab.
 DF - Verteidigung: Backchecking, Defensivarbeit  
 SC - Scoring: Schuss- und Torerfolg-Qualitäten  
 EX - Erfahrung  

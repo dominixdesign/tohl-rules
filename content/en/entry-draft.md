@@ -41,3 +41,26 @@ Das Zeitfenster für die Anpassung der Angaben ist nur sehr klein und beträgt n
 Es gibt im Forum unter "Spieler-Pinboard" den Eintrag "Draftnamen Anpassungen". Dort muss man seinen Änderungswunsch dann äußern.
 
 Man ist nicht verpflichtet einen Spieler anzupassen - es ist rein optional zu verstehen.
+
+
+## Generational Talent - besonderer Draftspieler
+
+Ab der Saison 19 besteht beim Draft die Möglichkeit, dass ein besonderer Spieler auswählbar sein wird.
+Dieser Spieler wird den OV 77 haben und 17 Jahre alt sein. Seine genauen Werte, auf welcher Position er spielt und welche Stockhand er hat, wird gemeinsam mit den anderen Draftpicks des Jahrgangs bekanntgegeben. Sein Name und die Nationalität bleiben zunächst offen. Erst wenn er tatsächlich in den Draft aufgenommen wird, erhält er einen Namen samt Nationalität.
+
+Ablauf:
+Am Tag des Drafts wird anhand eines 100-seitigen Würfels von einem Taskforce-Mitglied ermittelt, ob der Spieler in den Draft aufgenommen wird oder nicht.
+
+Bei einem Draft vor Ort (wo sich also GMs zum Draft treffen), wird vor Ort als eine der ersten Aktionen festgestellt, ob der Spieler in den Draft hineinkommt, so dass es auch Zeugen für den Ablauf gibt.
+
+Sollte es keinen Draft vor Ort geben, werden Vertreter der Taskforce bis spätestens mittags am Draft-Tag im Rahmen einer Video-Schalte ermitteln, ob der Spieler in den Draft hineinkommt.
+
+Ist das Ergebnis, dass er nicht in den dann aktuellen Draft aufgenommen wird, bleibt er mit seinen Werten erhalten und versucht im Jahr darauf erneut in den Draft hineinzukommen (identischer Ablauf). Sein Alter bleibt dabei auch auf 17 Jahren stehen, darum wird er im Vorfeld auch noch keinen Namen und keine Nationalität erhalten. Das Prozedere wiederholt sich von Draft zu Draft so lange, bis er es in den Draft hineingeschafft hat.
+
+Von Draft zu Draft wird aber die Wahrscheinlichkeit steigen, dass er hineinkommt.
+
+Beim ersten Draft beträgt die Wahrscheinlichkeit 15%
+Beim zweiten Draft beträgt die Wahrscheinlichkeit 45%
+Beim dritten Draft und allen ggf. folgenden beträgt die Wahrscheinlichkeit 99%
+
+Sollte es der Spieler in den Draft schaffen, kommt er als zusätzlicher Spieler hinein und wird wie alle anderen Spieler in der Draftliste behandelt. Zudem wird im Draftjahr danach ein neues Generational Talent erstellt und der Ablauf beginnt von vorne. 

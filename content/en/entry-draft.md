@@ -29,7 +29,7 @@ Die offizielle Draftliste wird den Managern ca. eine Woche vor dem Entry Draft z
 
 GMs, die beim Draft nicht anwesend sind und die im Vorfeld keinerlei Wünsche gegenüber anderen GMs abgegeben haben, erhalten mit ihrem Pick einen Spieler, der von den beim Draft anwesenden GMs im Gruppenaustausch ausgewählt wird. Grob wird sich dabei am OV-stärksten Spieler orientiert. Es wird aber auch mit einbezogen, auf welcher Position ein Bedarf vorhanden sein könnte. Wenn also z.B. das Team bereits 3 junge Goalies hat, aber auf LW z.B. kein Nachwuchsspieler vorhanden ist, macht es mehr Sinn einen jungen LW auszuwählen, als einen weiteren jungen Goalie - auch wenn dieser vielleicht vom OV her besser ist. Hier gibt es aber keine festen Regeln - die Gruppe versucht sich da bedarfsgerecht zu einigen.
 
-Alle paar Spielzeiten kann es mal vorkommen, dass ein überaus talentierter Spieler im Draftpool ist, der ein OV von 75+ hat. Das wird aber eine Seltenheit sein und wenig planbar. Grundsätzlich wird es jedoch zukünftig so sein, dass der OV bei den talentiertesten Draftspieler bei 75, bei den weniger taltentierten bei etwa 57 liegen wird. Kleinere Abweichungen (selten) vorbehalten.
+Grundsätzlich wird es jedoch zukünftig so sein, dass der OV bei den talentiertesten Draftspielern bei 75, bei den weniger taltentierten bei etwa 57 liegen wird. Kleinere Abweichungen (selten) vorbehalten. Eine Ausnahme stellt der so genannte Generational Player dar, zu dem es in den Regeln eine gesonderte Beschreibung gibt.
 
 
 ## Anpassung der Namen und der Nationalität der Draftspieler
@@ -49,7 +49,7 @@ Ab der Saison 19 besteht beim Draft die Möglichkeit, dass ein besonderer Spiele
 Dieser Spieler wird den OV 77 haben und 17 Jahre alt sein. Seine genauen Werte, auf welcher Position er spielt und welche Stockhand er hat, wird gemeinsam mit den anderen Draftpicks des Jahrgangs bekanntgegeben. Sein Name und die Nationalität bleiben zunächst offen. Erst wenn er tatsächlich in den Draft aufgenommen wird, erhält er einen Namen samt Nationalität.
 
 Ablauf:
-Am Tag des Drafts wird anhand eines 100-seitigen Würfels von einem Taskforce-Mitglied ermittelt, ob der Spieler in den Draft aufgenommen wird oder nicht.
+Am Tag des Drafts wird anhand eines 100-seitigen Würfels von einem Taskforce-Mitglied ermittelt, ob der Spieler in den Draft aufgenommen wird oder nicht. Sollte dieser Würfel - warum auch immer - einmal nicht zur Hand sein, kann auch jedes andere geeignete Ermittlungsverfahren unter Berücksichtugung der unten genannten prozentualen Wahrscheinlichkeiten genutzt werden.
 
 Bei einem Draft vor Ort (wo sich also GMs zum Draft treffen), wird vor Ort als eine der ersten Aktionen festgestellt, ob der Spieler in den Draft hineinkommt, so dass es auch Zeugen für den Ablauf gibt.
 

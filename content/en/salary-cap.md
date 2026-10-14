@@ -21,24 +21,16 @@ Unabhängig von der Einnahmensituation der Clubs, finden für die Berechnung des
 
 Das Gehalt des Head Coaches zählt NICHT gegen den Salary Cap. Erstens, weil es Einheitsgehälter sind, zweitens, weil jeder von Euch mit Sicherheit die eine oder andere schwarze Kasse für genau solche Fälle parat hat. Für die GMs also eine Sorge weniger.
 
-Eine Franchise darf mit diesen Faktoren in Summe den Salary-Cap in den Saisonphasen: PreSeason, RegSeason, Playoffs nicht überschreiten!
+Eine Team darf mit diesen Faktoren in Summe den Salary-Cap in den Saisonphasen Regular Season und Playoffs nicht überschreiten.
 
-Während der OffSeason ist es den Teams gestattet, den Salary-Cap zu überschreiten. Bis zum Beginn der PreSeason muss diese Grenze jedoch wieder unterschritten sein. Zu beachten ist dabei, dass die Anzeige des Salary-Caps auf der Homepage lediglich die Ausgaben durch Gehälter anzeigt. Möchte man also ein Trainingscamp besuchen, sollten die zu erwartenden Reisekosten zum angezeigten CapSpace addiert werden, da diese Summe erst dann abgezogen wird, wenn das Camp gebucht und bestätigt worden ist.
+Während der OffSeason/PreSeason ist es den Teams gestattet, den Salary-Cap zu überschreiten. Bis zum Beginn der Regular Season muss diese Grenze jedoch wieder unterschritten sein. Sollte ein Team außerhalb der OffSeason/PreSeason den Salary-Cap nicht einhalten und nicht kurzfristig von selbst tätig werden, wird der betroffene GM eine Aufforderung der Ligaleitung erhalten, kurzfristig entsprechende Maßnahmen einzuleiten. Was „kurzfristig“ bedeutet liegt im Einzelfall im Ermessensspielraum der Ligaleitung.
 
-Die einzige Möglichkeit, dass ein Team außerhalb der OffSeason seinen Salary-Cap überschreiten könnte, ist folgende:
-- ein Transfer, der die Spielergehälter über den Salary-Cap (die maximale Ausgabengrenze) drückt
+Wird der Salary-Cap von einem Team überschritten, der GM von der Ligaleitung informiert und tut nichts dagegen, seinen Cap wieder unter die Cap-Grenze zu bewegen, wird die Ligaleitung den OV-stärksten Spieler (bei mehreren Spielern mit gleichem OV dann den davon jeweils teuersten bzw. ältesten Spieler) des betroffenen Teams zu einem Free Agent machen und ihn damit aus dem Team entfernen. Dies wiederholt sich solange, bis der Salary Cap wieder eingehalten wird.
 
-Sollte eine solche Aktion dazu führen, dass der Salary-Cap eines Teams überstiegen wird, wird diese Aktion mit Hinweis auf den unzureichenden Cap-Space nicht durchgeführt. Der entsprechende GM muss reagieren, indem er entweder auf diese Aktion verzichtet oder seine Ausgaben reduziert. Dies kann man erreichen durch:
-- Transfer von Spielern mit hohem Jahresgehalt gegen Spieler mit günstigeren Verträgen
-- Entlassung eines Spielers
+Sollten besondere Gründe wie z.B. Krankheit eines GMs dazu führen, dass er nicht handeln kann, wird die Ligaleitung eine Lösung im Sinne des Teams finden. Was besondere Gründe sind, ist Entscheidung der Ligaleitung.
 
-Wird der Salary-Cap von einem Team überschritten, der GM von der Ligenleitung informiert und tut nichts dagegen, seinen Cap wieder unter die Cap-Grenze zu bewegen, wird einen Spieltag nach der Warnung durch die Ligenleitung der OV-stärkste Spieler des betroffenen Teams zu einem Free Agent und steht seinem Club nicht mehr zur Verfügung! Ja, der OV-stärkste Spieler, nicht der Top-Verdiener!
+In der OffSeason/Preseason startet auch das bieten auf UFA/FA-Spieler. Wenn ein Team seinen Cap-Space überschreitet, kann es keine Gebote auf UFA/FA-Spieler abgeben. Dies ist nur mit freiem Cap-Space möglich.
 
-Klingt nach drakonischen Sanktionen, weil sie es sein sollen!
-
-Bedenkt bitte: einen Spieler kann man GRATIS entlassen! Zudem geht die Ligenleitung davon aus, dass die angegebenen Möglichkeiten, den Cap zu überschreiten, die einzigen sind. Sollten die GMs während der Saison weitere Möglichkeiten erkennen, möchten wir einen Missbrauch von Regellücken verhindern und lieber ein konstruktives Feedback von Euch erhalten, um diese Lücken im Interesse aller GM‘s zu schließen. Da jeder GM seinen OVstärksten Spieler schützt und pflegt, sehen wir so die besten Optionen, mit Euch gemeinsam Stärken und Schwächen des Salary-Caps auszuloten und Missbrauch potentieller Regellücken zu vermeiden.
-
-Während der OffSeason erhalten manche Spieler neue Verträge. Aus diesem Grunde wird in dieser Saisonphase der Salary-Cap ignoriert. Einen Tag vor Beginn der PreSeason wird der Salary-Cap wieder aktiviert und die aktuelle Ausgaben-Obergrenze muss eingehalten werden. Zur Not müssen GM's, die über dem Cap liegen, kurzfristig Spieler traden oder entlassen. Bei einem teuren Kader steht es den GM's auch frei, eine Saison auf den Besuch eines Trainingscamps zu verzichten, wenn dies den Cap überschreiten würde.
 
 Der Salary-Cap eines jeden Teams ist auf der Homepage jederzeit abrufbar Ferner kann man den aktuellen CapSpace jeden Teams einsehen. Zudem werden die Gehälter zum Einen als Jahresgehalt, zum Anderen als Gehalt pro Spieltag angezeigt, damit Ihr stets vernünftig planen könnt, auch bei Trades.
 

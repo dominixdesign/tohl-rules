@@ -12,3 +12,5 @@ Diese Spieler können von jedem verpflichtet werden. Es erfolgt keine Versteiger
 Das Standardgehalt dieser Spieler beträgt 25.000 und sie können mit einem Vertrag von 1 bis 3 Jahren ausgestattet werden. Sie haben im ersten Jahr eine Trade- und Entlassungssperre.
 
 Läuft der Vertrag eines solchen Spielers aus, wandert er zurück auf die Minor-League-Liste und kann von jedem neu verpflichtet werden.
+
+Diese Spieler können zu jedem Zeitpunkt verpflichtet werden, wenn der Transfermarkt geöffnet ist.
